@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.invalidCell.MuiDataGrid-cell {
+  border-bottom: 1px solid red !important;
+}
+
